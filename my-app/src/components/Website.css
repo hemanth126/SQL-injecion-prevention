@@ -1,0 +1,30 @@
+.web{
+    display: flex;
+    font-size:xx-large;
+    color: rgb(246, 246, 246);
+    font-family: "Times New Roman", serif;
+   /* background: rgba(108, 250, 0, 0.865);*/
+    margin: auto;
+    position: fixed;
+    backdrop-filter: blur(30px);
+    background: transparent;
+    padding: 50px 5px;
+    margin-top: 250px;
+    margin-right: 150px;
+    margin-left: 400px;
+    border-radius: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 0 0 10px rgba(12, 227, 8, 0.466);
+    justify-content: center;
+    align-items: center;
+}
+/* .wb{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Automatically create columns with minimum width of 200px 
+    gap: 10px; }
+*/
+
+.nav{
+    justify-content: none;
+    align-items: none;
+}

@@ -1,0 +1,23 @@
+.web1{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width:auto;
+   
+    background-color: black;
+    display: flex;
+
+}
+.web2{
+    margin: 50px;
+    padding: 100px;
+    background-color: azure;
+}
+
+.web3{
+    
+        margin: 15px;
+        padding: 50px;
+        background-color: azure;
+    
+}
